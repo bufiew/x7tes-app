@@ -1,6 +1,6 @@
 {
-  "name": "Advance",
-  "short_name": "Advance",
+  "name": "advance",
+  "short_name": "advance",
   "description": "Trainingsplan, Training und Kalender",
   "start_url": "./",
   "scope": "./",
